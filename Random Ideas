@@ -1,3 +1,8 @@
-iPhone: 
+### iPhone
 
 - There must be an alarm on either 99% battery (while charging) or x% as customized by the user.
+- When someone takes a series (or burst) of images, some ML (or Optimization) system must suggest the best picture in terms of some measure and give us the option of deleting others to manage the clutter.
+
+### Microsoft Forms (or similar products)
+
+- Should have an option of converting the questions into an image form, so users would find it hard to directly copy/paste them in the ChatGPT and it would encourage human reasoning rather than easy copy/pasting.
